@@ -1,0 +1,22 @@
+$tb: 540px;
+$sm: 1210px;
+$pc: 1800px;
+
+$green: #69AE96;
+$black: #1F1F1F;
+
+
+%cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+%contain {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+
